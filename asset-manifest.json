@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7247bef0.css",
+    "main.js": "/static/js/main.42aa49b6.js",
+    "static/js/787.856a2c82.chunk.js": "/static/js/787.856a2c82.chunk.js",
+    "static/media/banner knigi.png": "/static/media/banner knigi.347e0551fe2e0ac39ba4.png",
+    "index.html": "/index.html",
+    "main.7247bef0.css.map": "/static/css/main.7247bef0.css.map",
+    "main.42aa49b6.js.map": "/static/js/main.42aa49b6.js.map",
+    "787.856a2c82.chunk.js.map": "/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7247bef0.css",
+    "static/js/main.42aa49b6.js"
+  ]
+}
